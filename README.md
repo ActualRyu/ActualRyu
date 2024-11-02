@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋, I'm Ryu!
 
-<!--
-**ActualRyu/ActualRyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Languages I know
+![Languages](https://skillicons.dev/icons?i=java,cs,python,html,css,js&theme=dark&perline=3)
 
-Here are some ideas to get you started:
+#Tools I use
+![Tools](https://skillicons.dev/icons?i=linux,vscodium,obsidian&theme=dark&perline=3)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Currently Learning
+![Learning](https://skillicons.dev/icons?i=dart,flutter,androidstudio&theme=dark&perline=3)
+
+#My Projects
+- [Reflections](https://reflections-rust.vercel.app/ "Reflections") - A wallpaper webapp
+- [MarkIt](https://chromewebstore.google.com/detail/markit-because-you-can-an/poodiebhkidejeeafpfjeahhncennbed "MarkIt") - A chrome New Tab
