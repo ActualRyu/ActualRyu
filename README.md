@@ -1,5 +1,3 @@
-## Hi there 👋, I'm Ryu!
-
 # Languages I know
 ![Languages](https://skillicons.dev/icons?i=java,cs,python,html,css,js&theme=dark&perline=3)
 
