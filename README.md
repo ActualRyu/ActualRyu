@@ -9,4 +9,4 @@
 
 # My Projects
 - [Reflections](https://reflections-rust.vercel.app/ "Reflections") - A wallpaper webapp
-- [MarkIt](https://chromewebstore.google.com/detail/markit-because-you-can-an/poodiebhkidejeeafpfjeahhncennbed "MarkIt") - A chrome New Tab
+- [Nuova Tab](https://chromewebstore.google.com/detail/Nuova/oifcihhidmkgijkokeafjnlgcnadoolo "Nuova Tab") - A chrome New Tab
